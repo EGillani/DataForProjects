@@ -5,8 +5,8 @@
    "ProductName": "Ocean Blue Shirt",
    "GraphicName": "oceanblueshirt.jpg",
    "CostPrice": 55.59,
-   "MSRP": 22.57,
-   "QtyOnHand": 24,
+   "MSRP": 299.99,
+   "QtyOnHand": 5,
    "QtyOnBackOrder": 0,
    "Description": "Ocean blue cotton shirt with a narrow collar and buttons down the front and long sleeves. Comfortable fit and tiled kalidoscope patterns. "
  },
@@ -49,8 +49,8 @@
    "ProductName": "Striped Silk Blouse",
    "GraphicName": "stripedblouse.jpg",
    "CostPrice": 94.01,
-   "MSRP": 47.86,
-   "QtyOnHand": 12,
+   "MSRP": 409.99,
+   "QtyOnHand": 4,
    "QtyOnBackOrder": 0,
    "Description": "Ultra-stylish black and red striped silk blouse with buckle collar and matching button pants. "
  },
